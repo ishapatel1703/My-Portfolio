@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#07111f"/>
+  <rect x="78" y="62" width="1044" height="550" rx="32" fill="#ffffff"/>
+  <text x="136" y="146" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#09a98e">How we work</text>
+  <text x="136" y="208" font-family="Arial, sans-serif" font-size="56" font-weight="800" fill="#0d1726">From idea to growth</text>
+  <g font-family="Arial, sans-serif">
+    <circle cx="214" cy="356" r="48" fill="#09d6b3"/><text x="200" y="372" font-size="42" font-weight="800" fill="#07111f">1</text><text x="154" y="448" font-size="25" font-weight="800" fill="#0d1726">Understand</text>
+    <path d="M276 356h150" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="488" cy="356" r="48" fill="#09d6b3"/><text x="474" y="372" font-size="42" font-weight="800" fill="#07111f">2</text><text x="454" y="448" font-size="25" font-weight="800" fill="#0d1726">Build</text>
+    <path d="M550 356h150" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="762" cy="356" r="48" fill="#09d6b3"/><text x="748" y="372" font-size="42" font-weight="800" fill="#07111f">3</text><text x="724" y="448" font-size="25" font-weight="800" fill="#0d1726">Launch</text>
+    <path d="M824 356h150" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="1036" cy="356" r="48" fill="#09d6b3"/><text x="1022" y="372" font-size="42" font-weight="800" fill="#07111f">4</text><text x="1000" y="448" font-size="25" font-weight="800" fill="#0d1726">Grow</text>
+  </g>
+  <text x="140" y="532" font-family="Arial, sans-serif" font-size="24" fill="#5b6b80">A simple process to turn an idea into a working digital product.</text>
+</svg>

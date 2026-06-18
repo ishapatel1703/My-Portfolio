@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#07111f"/>
+  <rect x="76" y="62" width="1048" height="552" rx="32" fill="#f5fafc"/>
+  <text x="136" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#09d6b3">Technologies</text>
+  <text x="136" y="212" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#0d1726">Technologies &amp; platforms</text>
+  <text x="136" y="272" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#0d1726">we work with</text>
+  <text x="140" y="326" font-family="Arial, sans-serif" font-size="24" fill="#5b6b80">Modern tools, frameworks, and platforms for scalable,</text>
+  <text x="140" y="360" font-family="Arial, sans-serif" font-size="24" fill="#5b6b80">high-performance digital solutions.</text>
+  <g font-family="Arial, sans-serif" font-size="22" font-weight="800">
+    <rect x="142" y="424" width="136" height="66" rx="18" fill="#e8f3ff"/><text x="178" y="465" fill="#0d1726">HTML5</text>
+    <rect x="306" y="424" width="118" height="66" rx="18" fill="#e9fff8"/><text x="344" y="465" fill="#0d1726">CSS3</text>
+    <rect x="452" y="424" width="162" height="66" rx="18" fill="#fff8df"/><text x="488" y="465" fill="#0d1726">JavaScript</text>
+    <rect x="642" y="424" width="126" height="66" rx="18" fill="#e8f3ff"/><text x="678" y="465" fill="#0d1726">React</text>
+    <rect x="796" y="424" width="142" height="66" rx="18" fill="#e9fff8"/><text x="834" y="465" fill="#0d1726">Node.js</text>
+    <rect x="966" y="424" width="96" height="66" rx="18" fill="#fff8df"/><text x="988" y="465" fill="#0d1726">AI</text>
+  </g>
+</svg>

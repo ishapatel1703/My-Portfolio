@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Project preview screenshot">
+  <rect width="1280" height="720" fill="#111827"/>
+  <rect x="88" y="76" width="1104" height="568" rx="24" fill="#f7fafc"/>
+  <rect x="128" y="122" width="240" height="26" rx="13" fill="#0e1525"/>
+  <rect x="912" y="120" width="88" height="24" rx="12" fill="#9aa8b8"/>
+  <rect x="1020" y="120" width="88" height="24" rx="12" fill="#9aa8b8"/>
+  <rect x="128" y="208" width="432" height="46" rx="10" fill="#102033"/>
+  <rect x="128" y="280" width="512" height="20" rx="10" fill="#738298"/>
+  <rect x="128" y="318" width="388" height="20" rx="10" fill="#b0bdc9"/>
+  <rect x="128" y="410" width="196" height="54" rx="12" fill="#00c9a7"/>
+  <rect x="720" y="204" width="344" height="280" rx="18" fill="#dce6ef"/>
+  <rect x="754" y="238" width="276" height="42" rx="9" fill="#ffffff"/>
+  <rect x="754" y="308" width="276" height="42" rx="9" fill="#ffffff"/>
+  <rect x="754" y="378" width="276" height="42" rx="9" fill="#ffffff"/>
+</svg>

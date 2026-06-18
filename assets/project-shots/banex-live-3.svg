@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#ecfffb"/>
+  <rect x="78" y="62" width="1044" height="550" rx="32" fill="#ffffff"/>
+  <text x="136" y="146" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#09a98e">Most in-demand</text>
+  <text x="136" y="208" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#0d1726">Solutions businesses trust us for</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="136" y="276" width="280" height="116" rx="22" fill="#0d1726"/><text x="166" y="322" font-size="24" font-weight="800" fill="#09d6b3">Website Development</text><text x="166" y="358" font-size="18" fill="#c8d2e0">Responsive and SEO-friendly</text>
+    <rect x="460" y="276" width="280" height="116" rx="22" fill="#0d1726"/><text x="490" y="322" font-size="24" font-weight="800" fill="#09d6b3">App Development</text><text x="490" y="358" font-size="18" fill="#c8d2e0">Android and iOS solutions</text>
+    <rect x="784" y="276" width="280" height="116" rx="22" fill="#0d1726"/><text x="814" y="322" font-size="24" font-weight="800" fill="#09d6b3">E-commerce</text><text x="814" y="358" font-size="18" fill="#c8d2e0">Stores and checkout flows</text>
+    <rect x="136" y="430" width="280" height="116" rx="22" fill="#0d1726"/><text x="166" y="476" font-size="24" font-weight="800" fill="#09d6b3">Software</text><text x="166" y="512" font-size="18" fill="#c8d2e0">Dashboards and systems</text>
+    <rect x="460" y="430" width="280" height="116" rx="22" fill="#0d1726"/><text x="490" y="476" font-size="24" font-weight="800" fill="#09d6b3">Digital Marketing</text><text x="490" y="512" font-size="18" fill="#c8d2e0">SEO, ads, and growth</text>
+    <rect x="784" y="430" width="280" height="116" rx="22" fill="#0d1726"/><text x="814" y="476" font-size="24" font-weight="800" fill="#09d6b3">Graphic Designing</text><text x="814" y="512" font-size="18" fill="#c8d2e0">Branding and creatives</text>
+  </g>
+</svg>
