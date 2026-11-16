@@ -409,6 +409,20 @@ const projectShotSets = {
     'assets/project-shots/salon-4.png',
     'assets/project-shots/salon-5.png'
   ],
+  salonGlam: [
+    'assets/project-shots/salon-glam-1.png',
+    'assets/project-shots/salon-glam-2.png',
+    'assets/project-shots/salon-glam-3.png',
+    'assets/project-shots/salon-glam-4.png',
+    'assets/project-shots/salon-glam-5.png'
+  ],
+  bbqPlace: [
+    'assets/project-shots/bbq-place-1.png',
+    'assets/project-shots/bbq-place-2.png',
+    'assets/project-shots/bbq-place-3.png',
+    'assets/project-shots/bbq-place-4.png',
+    'assets/project-shots/bbq-place-5.png'
+  ],
   fallback: [
     'assets/project-shots/fallback-1.svg',
     'assets/project-shots/fallback-2.svg',
@@ -419,6 +433,8 @@ const projectShotSets = {
 };
 
 function getProjectShots(card) {
+  if (card.dataset.project === 'salon-glam') return projectShotSets.salonGlam;
+  if (card.dataset.project === 'bbq-place') return projectShotSets.bbqPlace;
   const previewLink = card.querySelector('.proj-thumb')?.closest('a')?.href || '';
   const title = card.querySelector('.proj-title')?.textContent.trim().toLowerCase() || '';
 
