@@ -290,6 +290,27 @@ const projectShotSets = {
     'assets/project-shots/real-estate-1-4.jpg',
     'assets/project-shots/real-estate-1-5.jpg'
   ],
+  rsProperties: [
+    'assets/project-shots/rs-properties-1.png',
+    'assets/project-shots/rs-properties-2.png',
+    'assets/project-shots/rs-properties-3.png',
+    'assets/project-shots/rs-properties-4.png',
+    'assets/project-shots/rs-properties-5.png'
+  ],
+  propertySquare: [
+    'assets/project-shots/psreal-estate-1-1.jpg',
+    'assets/project-shots/psreal-estate-1-2.jpg',
+    'assets/project-shots/psreal-estate-1-3.jpg',
+    'assets/project-shots/psreal-estate-1-4.jpg',
+    'assets/project-shots/psreal-estate-1-5.jpg'
+  ],
+  angelBeautySalon: [
+    'assets/project-shots/angel-beauty-salon-1.png',
+    'assets/project-shots/angel-beauty-salon-2.png',
+    'assets/project-shots/angel-beauty-salon-3.png',
+    'assets/project-shots/angel-beauty-salon-4.png',
+    'assets/project-shots/angel-beauty-salon-5.png'
+  ],
   realEstateTwo: [
     'assets/project-shots/real-estate-2-1.jpg',
     'assets/project-shots/real-estate-2-2.jpg',
@@ -433,6 +454,9 @@ const projectShotSets = {
 };
 
 function getProjectShots(card) {
+  if (card.dataset.project === 'angel-beauty-salon') return projectShotSets.angelBeautySalon;
+  if (card.dataset.project === 'property-square') return projectShotSets.propertySquare;
+  if (card.dataset.project === 'rs-properties') return projectShotSets.rsProperties;
   if (card.dataset.project === 'salon-glam') return projectShotSets.salonGlam;
   if (card.dataset.project === 'bbq-place') return projectShotSets.bbqPlace;
   const previewLink = card.querySelector('.proj-thumb')?.closest('a')?.href || '';
